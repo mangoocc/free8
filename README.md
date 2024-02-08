@@ -1,8 +1,4 @@
-# TVBox自用资源
-
-在线源订阅地址：
-
-https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.json
+#自用资源
 
 阿里云盘资源使用方法：二〇二四/主页→云盘登录→使用阿里云盘app扫描二维码
 
@@ -10,6 +6,4 @@ https://mirror.ghproxy.com/raw.githubusercontent.com/PizazzGY/TVBox/main/api.jso
 
 弹幕资源请使用影视app观看
 
-# TVBox系列软件
 
-https://www.123pan.com/s/sPNbVv-aYuXv
