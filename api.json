@@ -192,7 +192,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "./live.txt",
+            "url": "/live.txt",
             "epg": "http://diyp.112114.xyz/?ch={name}&date={date}"
         }
     ],
