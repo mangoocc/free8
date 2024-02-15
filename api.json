@@ -25,7 +25,7 @@
 	{"key":"影视五","name":"影视五","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/Movie5"},
 	{"key":"一起看","name":"一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"皮皮虾","name":"皮皮虾","type":3,"api":"csp_WebAiKun","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://aikun.tv"},
-	{"key":"新视觉","name":"新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"},
+	{"key":"新视觉","name":"新视觉","type":3,"api":"csp_Web608","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://www.80yy3.com"}，
 	{"key":"机器人","name":"机器人","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"短剧网","name":"短剧网","type":3,"api":"csp_Duanjuw","searchable":1,"quickSearch":1,"changeable":1},
 	{"key":"加速器","name":"加速器","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"ext":"http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"},
@@ -188,7 +188,7 @@
 	{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},
 	{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 	{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
-"lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"https://ghproxy.net/https://github.com/hy5528/tvbox/blob/main/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "flags":
 	["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 "ijk":
